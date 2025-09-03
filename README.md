@@ -55,8 +55,8 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amit9785&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit9785&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 <p align="center">
   <!-- Contribution graph Snake animation -->
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github.com/Amit9785/Amit9785/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
