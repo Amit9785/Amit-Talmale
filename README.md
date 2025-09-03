@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=AI Engineer at Your Name&animation=fadeIn&type=wave&color=gradient&height=100" alt="Header Animation"/>
+  <img src="https://capsule-render.vercel.app/api?text=AI Engineer &animation=fadeIn&type=wave&color=gradient&height=100" alt="Header Animation"/>
 </p>
 
 <p align="center">
