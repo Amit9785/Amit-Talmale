@@ -194,7 +194,7 @@ mindmap
 ### 📊 Visitor Count
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/amittalmale/count.svg" alt="Visitor Count" />
+<img src="https://profile-counter.glitch.me/Amit9785/count.svg" alt="Visitor Count" />
 </p>
 
 ---
