@@ -65,15 +65,15 @@ me.say_hi()
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amittalmale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amittalmale&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit9785&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amittalmale&theme=tokyonight" alt="amittalmale" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit9785&theme=tokyonight" alt="amittalmale" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amittalmale&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit9785&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
