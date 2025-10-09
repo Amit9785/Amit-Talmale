@@ -31,7 +31,7 @@ class AmitTalmale:
     def say_hi(self):
         print("👋 Thanks for dropping by! Let's build something amazing together!")
 </code>
-
+```
 
 ---
 
