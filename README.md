@@ -91,7 +91,7 @@ class AmitTalmale:
 ---
 
 ## 🔥 Current Focus
-
+```mermaid
 mindmap
   root((AI Journey))
     Machine Learning
