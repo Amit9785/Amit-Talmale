@@ -168,7 +168,7 @@ mindmap
 <a href="mailto:skaamit9786@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/amittalmale37/" target="_blank">
+<a href="https://www.kaggle.com/amittalmale" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
