@@ -10,9 +10,6 @@
 
 ### 🎯 About Me
 
-```
-<h2>🎯 About Me</h2>
-
 <code>
 class AmitTalmale:
     def __init__(self):
