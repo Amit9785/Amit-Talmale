@@ -178,34 +178,6 @@ mindmap
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Amit9785/Amit-Talmale/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Amit9785/Amit-Talmale/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Amit9785/Amit-Talmale/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-### 📊 Visitor Count
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/Amit9785/count.svg" alt="Visitor Count" />
-</p>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
