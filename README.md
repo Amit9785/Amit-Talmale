@@ -10,6 +10,8 @@
 
 ### 🎯 About Me
 
+</div>
+
 ```python
 class AmitTalmale:
     def __init__(self):
@@ -28,7 +30,7 @@ class AmitTalmale:
     def say_hi(self):
         print("👋 Thanks for dropping by! Let's build something amazing together!")
 ```
-
+<div align="center">
 ---
 
 ### 🛠️ Tech Stack & Tools
