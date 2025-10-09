@@ -5,7 +5,7 @@
 
 <!-- Top-right circular avatar GIF -->
 <div align="right">
-  <img src="./ezgif-8a3bf289ac59aa.gif" width="150" alt="Amit Avatar" style="border-radius:50%;"/>
+  <img src="./ezgif-8a3bf289ac59aa.gif" width="500" height="500" alt="Amit Avatar" style="border-radius:50%;"/>
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Amit+Talmale;AI+Engineering+Student+%F0%9F%A7%A0;Building+the+Future+with+AI+%E2%9C%A8;Machine+Learning+Enthusiast+%F0%9F%93%88" alt="Typing SVG" />
