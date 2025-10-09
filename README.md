@@ -10,28 +10,29 @@
 
 ### 🎯 About Me
 
-```python
+<h2>🎯 About Me</h2>
+
+<pre>
+<code>
 class AmitTalmale:
     def __init__(self):
         self.name = "Amit Talmale"
         self.role = "AI Engineering Student"
         self.location = "India 🇮🇳"
         self.interests = [
-            "Machine Learning 🧠",
-            "Deep Learning 🤖",
-            "Natural Language Processing 💬",
-            "Computer Vision 👁️"
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision"
         ]
-        self.current_focus = "Building AI-powered real-world applications 🚀"
-        self.learning = ["Transformers", "Large Language Models (LLMs)", "MLOps ⚙️"]
+        self.current_focus = "Building AI-powered real-world applications"
+        self.learning = ["Transformers", "LLMs", "MLOps"]
 
     def say_hi(self):
         print("👋 Thanks for dropping by! Let's build something amazing together!")
+</code>
+</pre>
 
-if __name__ == "__main__":
-    me = AmitTalmale()
-    me.say_hi()
-```
 
 ---
 
