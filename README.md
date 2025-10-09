@@ -92,7 +92,6 @@ class AmitTalmale:
 
 ## 🔥 Current Focus
 
-```mermaid
 mindmap
   root((AI Journey))
     Machine Learning
@@ -108,6 +107,11 @@ mindmap
       LLMs
       Text Generation
       Sentiment Analysis
+      Retrieval-Augmented Generation (RAG)
+        RAG Agents
+        Agentic RAG
+          Multi-Agent RAG
+          Planner / Retriever / Synthesizer agents
     Computer Vision
       Object Detection
       Image Segmentation
@@ -116,6 +120,8 @@ mindmap
       Model Deployment
       CI/CD for ML
       Model Monitoring
+      Agent Orchestration
+      Secure Retrieval
 ```
 
 ---
