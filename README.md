@@ -13,17 +13,24 @@
 ```python
 class AmitTalmale:
     def __init__(self):
+        self.name = "Amit Talmale"
         self.role = "AI Engineering Student"
         self.location = "India 🇮🇳"
-        self.interests = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
-        self.current_focus = "Building AI-powered applications"
-        self.learning = ["Transformers", "LLMs", "MLOps"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        self.interests = [
+            "Machine Learning 🧠",
+            "Deep Learning 🤖",
+            "Natural Language Processing 💬",
+            "Computer Vision 👁️"
+        ]
+        self.current_focus = "Building AI-powered real-world applications 🚀"
+        self.learning = ["Transformers", "Large Language Models (LLMs)", "MLOps ⚙️"]
 
-me = AmitTalmale()
-me.say_hi()
+    def say_hi(self):
+        print("👋 Thanks for dropping by! Let's build something amazing together!")
+
+if __name__ == "__main__":
+    me = AmitTalmale()
+    me.say_hi()
 ```
 
 ---
