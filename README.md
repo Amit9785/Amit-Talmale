@@ -10,7 +10,7 @@
 
 ### 🎯 About Me
 
-```html
+```
 <pre style="text-align: left; margin-left: 0; text-align: start;">
 class AmitTalmale:
     def __init__(self):
