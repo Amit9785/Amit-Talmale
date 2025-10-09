@@ -10,7 +10,8 @@
 
 ### 🎯 About Me
 
-```python
+```html
+<pre style="text-align: left; margin-left: 0; text-align: start;">
 class AmitTalmale:
     def __init__(self):
         self.name = "Amit Talmale"
@@ -27,9 +28,7 @@ class AmitTalmale:
 
     def say_hi(self):
         print("👋 Thanks for dropping by! Let's build something amazing together!")
-
-
-
+</pre>
 
 ---
 
