@@ -10,10 +10,7 @@
 
 ### 🎯 About Me
 
-<h2>🎯 About Me</h2>
-
-<pre>
-<code>
+<pre style="text-align:left;">
 class AmitTalmale:
     def __init__(self):
         self.name = "Amit Talmale"
@@ -30,8 +27,8 @@ class AmitTalmale:
 
     def say_hi(self):
         print("👋 Thanks for dropping by! Let's build something amazing together!")
-</code>
 </pre>
+
 
 
 ---
