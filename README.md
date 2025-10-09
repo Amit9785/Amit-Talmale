@@ -77,10 +77,6 @@ class AmitTalmale:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit9785&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit9785&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
