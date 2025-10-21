@@ -75,9 +75,10 @@ ai_enthusiast = {
 
 ---
 
-### ✨ Meet My 3D Avatar
+### ✨ Meet Me
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="300" alt="3D Avatar">
+<a href="https://amit-talmale-portfolio.vercel.ap" <img width="1024" height="1536" alt="20251004_1354_Anime Avatar Creation_remix_01k6q52a32frs81r4aqks2d1mj" src="https://github.com/user-attachments/assets/0609a54f-651c-4792-bc89-b2369314ab01" /> </a>
+
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
