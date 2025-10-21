@@ -77,7 +77,14 @@ ai_enthusiast = {
 
 ### ✨ Meet Me
 
-<a href="https://amit-talmale-portfolio.vercel.ap" <img width="1024" height="1536" alt="20251004_1354_Anime Avatar Creation_remix_01k6q52a32frs81r4aqks2d1mj" src="https://github.com/user-attachments/assets/0609a54f-651c-4792-bc89-b2369314ab01" /> </a>
+<a href="https://amit-talmale-portfolio.vercel.app" target="_blank">
+  <img 
+    src="https://github.com/user-attachments/assets/0609a54f-651c-4792-bc89-b2369314ab01" 
+    alt="Amit Talmale Portfolio Avatar" 
+    width="256" 
+    height="400"
+  />
+</a>
 
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
